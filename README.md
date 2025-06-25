@@ -1,12 +1,24 @@
-# React + Vite
+ # 📅 INTERACTIVE CALENDAR  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ This is a simple, elegant calendar application built using **Vite + React** and **Tailwind CSS**. 
 
-Currently, two official plugins are available:
+ It supports:
+ * Month and Year navigation
+ * Current day highlighting
+ * Clicking on a date to **add events**
+ * Events displayed as colorful badges inside the calendar
+ * Responsive design
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+* 📆 Displays days of the selected month in a 6x7 grid
+* 🔄 Navigate between months
+* 📅 Select year from dropdown
+* 🎯 Highlights today’s date
+* 📝 Add multiple events to any date via click prompt
+* 🌈 Random color-coded event badges shown inside the date cell
+* 📱 Fully responsive and mobile-friendly
+  
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/51bcd816-c828-46a5-a4a1-f1e2679a47e4)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
