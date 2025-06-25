@@ -20,5 +20,6 @@
 * 📱 Fully responsive and mobile-friendly
   
 ## 📸 Screenshots
-![image](https://github.com/user-attachments/assets/51bcd816-c828-46a5-a4a1-f1e2679a47e4)
+![image](https://github.com/user-attachments/assets/0d73365a-fcf3-4314-a94c-53d5d1dfcaae)
+
 
