@@ -55,9 +55,13 @@ const Calendar = () => {
   };
 
   return (
+
+    
     <div className="w-full px-12 sm:px-6 lg:px-12 py-8 bg-gradient-to-r from-blue-50 to-purple-50 min-h-screen flex justify-center items-center">
+      
       <div className="bg-cyan-200 w-full max-w-5xl min-w-[360px] h-[580px] rounded-2xl shadow-2xl p-6 flex flex-col justify-between">
 
+          
         {/* Month + Year Navigation */}
         <div className="flex justify-between items-center mb-4">
           <button onClick={goToPrevMonth} className="text-2xl p-2 rounded-full hover:bg-indigo-100 transition">◀️</button>
